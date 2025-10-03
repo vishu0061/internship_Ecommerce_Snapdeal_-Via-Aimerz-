@@ -12,11 +12,8 @@ A complete, production-ready e-commerce solution built with modern technologies 
 - **Shopping Cart**: Add/remove items with real-time updates
 - **User Authentication**: Secure login/register system
 - **Order Management**: Place orders, track order history
-- **Payment Integration**: Secure Stripe payment processing
 - **Responsive Design**: Works perfectly on all devices
 - **FAQ Section**: Comprehensive help section
-- **Blog Page**: Coming soon functionality
-
 ### Admin Features
 
 - **Dashboard Analytics**: Sales metrics and business insights
